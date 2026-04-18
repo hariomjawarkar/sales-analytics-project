@@ -77,9 +77,6 @@ sales-analytics-project/
 ---
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/67af3012-7a16-4077-a1dc-84002b1502e2" />
-
-
 <img width="1920" height="1080" alt="Screenshot (454)" src="https://github.com/user-attachments/assets/147d7b11-6d3d-42d6-bc43-ffe1b1a0d255" />
 
 ---
