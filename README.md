@@ -1,4 +1,6 @@
-<img width="1920" height="1080" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/2d572124-d277-4bb0-a4f7-9ca876b296d9" /># 📊 Sales Analytics Dashboard Project
+📊 Sales Analytics Dashboard Project
+
+<img width="1920" height="1080" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/2d572124-d277-4bb0-a4f7-9ca876b296d9" /># 
 
 ## 🚀 Project Overview
 
